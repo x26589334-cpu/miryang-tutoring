@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://x26589334-cpu.github.io/miryang-tutoring/sitemap.xml
+Sitemap: https://nadolearn.co.kr/sitemap.xml
