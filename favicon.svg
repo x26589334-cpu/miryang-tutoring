@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#2f8a7c"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">밀양</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2f8a7c"/><path d="M8 27 Q32 10 56 27 Q32 21 8 27 Z" fill="#fff"/><rect x="15" y="27" width="34" height="4" fill="#fff"/><rect x="17.5" y="31" width="3.5" height="14" fill="#fff"/><rect x="26" y="31" width="3.5" height="14" fill="#fff"/><rect x="34.5" y="31" width="3.5" height="14" fill="#fff"/><rect x="43" y="31" width="3.5" height="14" fill="#fff"/><rect x="12" y="45" width="40" height="5" rx="1.5" fill="#fff"/></svg>
